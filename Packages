@@ -31,11 +31,11 @@ Name: Not a bypass
 Depends: mobilesubstrate
 Version: 1.5.1.6
 Architecture: iphoneos-arm
-Description: اداة اخفاء الجلبريك تتوافق مع اصدارات ios 15 ios 16
+Depiction: https://supermamon.com/Reposi3/depictions/?p=com.supermamon.Notabypass
 Maintainer: Maen Alshomali
 Author: Maen Alshomali
 Section: Tweaks
 Filename: ./debs/com.iphoneplus.Notabypass.deb
-Description: https://supermamon.com/Reposi3/depictions/?p=com.supermamon.Notabypass
+Description: اداة اخفاء الجلبريك تتوافق مع اصدارات ios 15 ios 16
 Size: 167
 MD5sum: cf1aa8124d4dc23e8e524dc0ed66d4ee
