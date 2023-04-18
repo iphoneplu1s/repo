@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.iPhone-Plus.not-a-bypass
 Version: 1.1.4
-Section: Tweaks
+Section: Utilities
 Maintainer: iPhone-Plus <https://iphoneplu1s.github.io/repo/>
 Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
 Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
@@ -40,16 +40,17 @@ Description: اداة اخفاء الجلبريك تتوافق مع ios 16 ios 1
 Name: Not a bypass
 Author: iPhone-Plus <https://iphoneplu1s.github.io/repo/>
 Depiction: https://iphoneplu1s.github.io/repo/depictions/?p=com.iPhone-Plus.not-a-bypass
+Homepage: https://iphoneplu1s.github.io/repo/
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
 Description: The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi <support@ib-soft.net>
+Author: Ivano Bilenchi <https://iphoneplu1s.github.io/repo/>
 Maintainer: Ivano Bilenchi <https://iphoneplu1s.github.io/repo/>
 Version: 7.10.0
 Architecture: iphoneos-arm
-Homepage: http://ib-soft.net/icleaner
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Homepage: https://iphoneplu1s.github.io/repo/
+Depiction: https://iphoneplu1s.github.io/repo/depictions/?p=com.exile90.icleanerpro
 Section: Utilities
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
