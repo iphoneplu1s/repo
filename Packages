@@ -52,3 +52,20 @@ Description: اداة اخفاء الجلبريك تتوافق مع ios 16 ios 1
 Name: Not a bypass
 Author: iPhone-Plus
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.iPhone-Plus.not-a-bypass
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.10.0
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Size: 2450460
+MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
