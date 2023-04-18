@@ -1,13 +1,27 @@
 Package: com.renouri.opalbeta
 Name: Opal Beta
 Version: 0.2
-Author: Renouri <renouri@outlook.com>
-Maintainer: iKilledAppl3 <ikilledappl3@ikilledappl3.netau.net>
+Author: Renouri <iphoneplus@iphoneplu1s.github.io/repo/>
+Maintainer: iphoneplus <iphoneplus@iphoneplu1s.github.io/repo/>
 Description: An awesome iOS Theme!
-Depiction: http://opalbeta.ikilledappl3.netau.net/info/com.example.package/index.html
+Depiction: https://iphoneplu1s.github.io/repo/info/com.example.package/index.html
 Architecture: iphoneos-arm
 Section: Themes (SpringBoard)
 Size: 16692254
 Filename: ./DEBs/com.renouri.opalbeta_0.2_iphoneos-arm.deb
 Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
 MD5sum: 2b634c9ce0b86a0b84c110e3a03fcade
+
+Package: com.iPhone-Plus.not-a-bypass
+Name: Not a bypass
+Version: 1.1.4
+Author: Renouri <iphoneplus@iphoneplu1s.github.io/repo/>
+Maintainer: iphoneplus <iphoneplus@iphoneplu1s.github.io/repo/>
+Description: An awesome iOS Theme!
+Depiction: https://iphoneplu1s.github.io/repo/info/com.example.package/index.html
+Architecture: iphoneos-arm
+Section: Tweaks
+Size: 17566144
+Filename: ./DEBs/com.iPhone-Plus.not-a-bypass_1.1.4_iphoneos-arm.deb
+Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
+MD5sum: cf1aa8124d4dc23e8e524dc0ed66d4ee
