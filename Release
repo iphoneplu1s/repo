@@ -1,8 +1,8 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
+Origin: iPhone Plus Repo
+Label: iPhone Plus Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 
+Description: iPhone Plus Repo - a cydia repo template
