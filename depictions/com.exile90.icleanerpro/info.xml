@@ -1,0 +1,23 @@
+<package>
+	<id>com.exile90.icleanerpro</id>
+	<name>iCleaner Pro</name>
+	<version>7.10.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>4.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>اداة اخفاء الجلبريك تتوافق مع اصدار ios 16 ios 15..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
