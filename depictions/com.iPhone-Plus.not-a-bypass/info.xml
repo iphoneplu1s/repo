@@ -1,0 +1,23 @@
+<package>
+	<id>com.iPhone-Plus.not-a-bypass</id>
+	<name>Not a bypass</name>
+	<version>1.1.4</version>
+	<compatibility>
+		<firmware>(>= 13.0), com.ex.substitute (>= 2.0)
+			<maxiOS>13.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>(>= 13.0), com.ex.substitute (>= 2.0)
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>اداة اخفاء الجلبريك تتوافق مع اصدار ios 16 ios 15..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

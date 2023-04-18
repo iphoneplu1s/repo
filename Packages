@@ -26,3 +26,29 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.iPhone-Plus.not-a-bypass
+Priority: optional
+Section: Tweaks
+Maintainer: iPhone-Plus
+Architecture: iphoneos-arm
+Version: 1.1.4
+Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
+Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
+Description: Global jailbreak detection bypass
+Author: iPhone-Plus
+Name: Not a bypass
+
+Package: com.iPhone-Plus.not-a-bypass
+Version: 1.1.4
+Section: Tweaks
+Maintainer: iPhone-Plus
+Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
+Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iPhone-Plus.not-a-bypass.deb
+Size: 17566144
+MD5sum: cf1aa8124d4dc23e8e524dc0ed66d4ee
+Description: اداة اخفاء الجلبريك تتوافق مع ios 16 ios 15
+Name: Not a bypass
+Author: iPhone-Plus
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.iPhone-Plus.not-a-bypass
