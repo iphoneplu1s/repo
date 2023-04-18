@@ -1,0 +1,23 @@
+<package>
+	<id>com.iphoneplus.Notabypass</id>
+	<name>Not a bypass</name>
+	<version>1.5.1.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>اداة اخفاء الجلبريك تتوافق مع اصدارات ios 15 ios 16</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
