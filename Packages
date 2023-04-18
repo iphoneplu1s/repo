@@ -1,61 +1,13 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>16.4.1), mobilesubstrate
+Package: com.renouri.opalbeta
+Name: Opal Beta
+Version: 0.2
+Author: Renouri <renouri@outlook.com>
+Maintainer: iKilledAppl3 <ikilledappl3@ikilledappl3.netau.net>
+Description: An awesome iOS Theme!
+Depiction: http://opalbeta.ikilledappl3.netau.net/info/com.example.package/index.html
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<16.4.1)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
-Package: com.iPhone-Plus.not-a-bypass
-Version: 1.1.4
-Section: Utilities
-Maintainer: iPhone-Plus <https://iphoneplu1s.github.io/repo/>
-Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
-Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
-Architecture: iphoneos-arm
-Filename: ./debs/com.iPhone-Plus.not-a-bypass.deb
-Size: 17566144
-MD5sum: cf1aa8124d4dc23e8e524dc0ed66d4ee
-Description: اداة اخفاء الجلبريك تتوافق مع ios 16 ios 15
-Name: Not a bypass
-Author: iPhone-Plus <https://iphoneplu1s.github.io/repo/>
-Depiction: https://iphoneplu1s.github.io/repo/depictions/?p=com.iPhone-Plus.not-a-bypass
-Homepage: https://iphoneplu1s.github.io/repo/
-
-Package: com.exile90.icleanerpro
-Name: iCleaner Pro
-Description: The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi <https://iphoneplu1s.github.io/repo/>
-Maintainer: Ivano Bilenchi <https://iphoneplu1s.github.io/repo/>
-Version: 7.10.0
-Architecture: iphoneos-arm
-Homepage: https://iphoneplu1s.github.io/repo/
-Depiction: https://iphoneplu1s.github.io/repo/depictions/?p=com.exile90.icleanerpro
-Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
-Section: Utilities
-Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Icon: file:///Applications/iCleaner.app/Icon.png
-Size: 2450460
-MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
+Section: Themes (SpringBoard)
+Size: 16692254
+Filename: ./DEBs/com.renouri.opalbeta_0.2_iphoneos-arm.deb
+Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
+MD5sum: 2b634c9ce0b86a0b84c110e3a03fcade
