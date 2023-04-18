@@ -51,8 +51,9 @@ Version: 7.10.0
 Architecture: iphoneos-arm
 Homepage: https://iphoneplu1s.github.io/repo/
 Depiction: https://iphoneplu1s.github.io/repo/depictions/?p=com.exile90.icleanerpro
+Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
 Section: Utilities
-Depends: firmware (>= 4.0), findutils, apt | apt7
+Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
