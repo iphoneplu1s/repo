@@ -57,7 +57,7 @@ This data are the links that appear at the bottom of every depication. The data 
         </link>
         <link>
             <name>I want this depiction template</name>
-            <url>https://github.com/supermamon/Reposi3</url>
+            <url>https://iphoneplu1s.github.io/repo/</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
     </footerlinks>
@@ -67,7 +67,7 @@ This data are the links that appear at the bottom of every depication. The data 
 
 #### 3. Your repo is _almost_ ready.
 At this point your repo is basically ready to be added into Cydia.
-You can also visit your repo's homepage by going to `https://username.github.io/repo/`.
+You can also visit your repo's homepage by going to `https://iphoneplu1s.github.io/repo/.
 It will come with 2 sample packages, Old Package and New Package.
 Each of the packages have a link on this page pointing to their depictions.
 Next guide will show you how to assign and customize your depiction pages.
@@ -128,13 +128,13 @@ You can add the depictions url at the end of your package's `control` file befor
 The depiction line should look like this:
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=[idhere]
+Depiction: https://iphoneplu1s.github.io/repo/depictions/?p=[idhere]
 ```
 
 Replace `[idhere]` with your actual package name.
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=com.supermamon.oldpackage
+Depiction: https://iphoneplu1s.github.io/repo/?p=com.supermamon.oldpackage
 ```
 
 #### 3. Rebuilding the `Packages` file
