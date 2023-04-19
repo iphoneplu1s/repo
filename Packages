@@ -25,3 +25,17 @@ Size: 17566144
 Filename: ./DEBs/com.iPhone-Plus.not-a-bypass_1.1.4_iphoneos-arm.deb
 Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
 MD5sum: cf1aa8124d4dc23e8e524dc0ed66d4ee
+
+Package: com.iphoneplus.cracktool4
+Name: CrackTool4
+Version: 4.0~beta10b
+Author: Telegram <https://t.me/iPhone_Plus1>
+Maintainer: YouTube <https://www.youtube.com/channel/UCRWQP35HzCJ9uUf82jJspzg>
+Description: اداة لتكريك بعض ادوات الجلبريك
+Depiction: https://iphoneplu1s.github.io/repo/info/com.example.package/index.html
+Architecture: iphoneos-arm
+Section: Tweaks
+Size: 788 
+Filename: ./DEBs/com.iPhone-Plus.not-a-bypass_1.1.4_iphoneos-arm.deb
+Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
+MD5sum: b25abd25da64b7cc520cd1a08b742abf
