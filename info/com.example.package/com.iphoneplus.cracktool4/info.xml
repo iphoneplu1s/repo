@@ -1,0 +1,45 @@
+<package>
+	<id>com.iphoneplus.cracktool4</id>
+	<name>CrackTool4</name>
+	<version>4.0~beta10b</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>اداة لتكريك الادوات المدفوعه</shortDescription>
+	<descriptionlist>
+		<description>تتواف مع اصدارات ios 13 ios 16.</description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>لقطة شاشه</description>
+			<image>shot1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>لقطة شاشة</description>
+			<image>cydia.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
